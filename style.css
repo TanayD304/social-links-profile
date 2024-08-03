@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* background-color: black;  added to test connection of stylesheet with index*/
+}
+
+body {
+    background-color: magenta;
+    padding:20% 40%;
+}
+
+#main-content-card {
+    background-color: aqua;
+}
+
+#information {
+    background-color: blue;
+}
+
+#social-media-links {
+    background-color: brown;
+}
+
